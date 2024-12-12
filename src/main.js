@@ -1,5 +1,8 @@
 "use strict"
 
+// configuração do dayjs
+import "./libs/dayjs.js"
+
 // Importanção do CSS
 import "./styles/global.css";
 import "./styles/form.css";
