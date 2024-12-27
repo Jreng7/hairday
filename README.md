@@ -1,4 +1,4 @@
-# 💇‍♀️ Hair Day Project
+# Hair Day Project
 
 **Hair Day** is a project developed with a focus on learning and practical application of **JavaScript**.
 
